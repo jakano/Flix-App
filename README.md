@@ -39,7 +39,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-I messed up the git pulls and push so I lost some of my code near the end of its completion. After redoing the lost portions off the app, I had to swap my current loaner mac for my official work mac since it had arrived at the IT desk. When transfering files between the macs, my app code did not successfully transfer. I got most of it back from my repository, but I had to redo the lost parts again. These accidents make up the bulk of my app dev time. The only optional I could do was changing the background color. I ran out of time before I had working versions of this app code with optionals included.
+I messed up the git pulls and push so I lost some of my code near the end of its completion. After redoing the lost portions off the app, I had to swap my current loaner mac for my official work mac since it had arrived at the IT desk. When transfering files between the macs, my app code did not successfully transfer. I got most of it back from my repository, but I had to redo the lost parts again. These accidents make up the bulk of my app dev time. The only optional I could do was changing the background color. I ran out of time before I had working versions of this app code with other optionals included.
 
 ## Credits
 
